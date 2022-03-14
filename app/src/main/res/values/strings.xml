@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="p1_turn">"Player 1's Turn"</string>
+    <string name="p2_turn">"Player 2's Turn"</string>
+    <string name="drawMsg">"\nDraw!"</string>
+    <string name="p1WinMsg">"Player 1\nWins!"</string>
+    <string name="p2WinMsg">"Player 2\nWins!</string>
+    <string name="playerTurn">"Player's Turn</string>
+    <string name="cpuTurn">"Opponent's Turn"</string>
+    <string name="pWinMsg">"Player\nWins!</string>
+    <string name="cpuWinMsg">"CPU\nWins!"</string>
+</resources>
